@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 28 15:24:01 2020
-
-@author: mbc
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 16 22:44:43 2020
-
-@author: mbc
-"""
-
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
